@@ -1,0 +1,6 @@
+langchain==0.3.25
+python-dotenv~=1.1.0
+langchain-experimental==0.3.4
+pydantic~=2.10.3
+playwright~=1.52.0
+pypinyin~=0.54.0
